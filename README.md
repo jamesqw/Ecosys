@@ -23,7 +23,7 @@ me dará um ambiente de trabalho onde o maya executará o Maya 2014 e o Yeti 1.3
 
 O Ecosys foi desenvolvido para ser multiplataforma, portanto, o exemplo acima funciona no Linux, Osx e Windows.
 
-Embora a intenção seja que o Ecosystem seja usado a partir de um shell, a fonte .py é escrita de forma que seria fácil incorporá-la em um aplicativo GUI para ter um iniciador mais visual.
+Embora a intenção seja que o Ecosys seja usado a partir de um shell, a fonte .py é escrita de forma que seria fácil incorporá-la em um aplicativo GUI para ter um iniciador mais visual.
 
 Começando
 Recentemente, atualizamos como o Ecosystem pode ser usado tanto na linha de comando quanto como um módulo
