@@ -1,5 +1,5 @@
-Ecosys
-Ecosystem é um sistema de gerenciamento de ambiente multiplataforma da Peregrine Labs, desenvolvido originalmente para pesquisa e desenvolvimento de produção VFX/Animação, mas pode ser usado em qualquer situação em que uma compreensão precisa do seu ambiente de trabalho seja importante (e realmente deve ser!).
+#Ecosys 
+É um sistema de gerenciamento de ambiente multiplataforma baseado na Peregrine Labs, desenvolvido originalmente para pesquisa e desenvolvimento de produção VFX/Animação, mas pode ser usado em qualquer situação em que uma compreensão precisa do seu ambiente de trabalho seja importante (e realmente deve ser!).
 
 Por quê?
 Embora possa parecer uma tarefa simples, ainda é muito comum encontrar muitos estúdios com os quais trabalhamos que não têm controle sobre seu ambiente, o que é a raiz de muitos problemas (versões erradas de software sendo acessadas, versões erradas de objetos compartilhados, versões incompatíveis, etc.). A nossa esperança é que o Ecosystem possa ser usado não apenas para resolver esses problemas, mas também para melhorar o fluxo de trabalho em geral.
