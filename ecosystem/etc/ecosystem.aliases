@@ -1,2 +1,0 @@
-#Ecosystem Aliases
-alias eneed 'eneedenv \!:1 > /tmp/ecoset; source /tmp/ecoset'

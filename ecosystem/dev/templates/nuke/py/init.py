@@ -1,2 +1,0 @@
-nuke.load("example")
-
