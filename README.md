@@ -1,4 +1,4 @@
-#Ecosys 
+Ecosys 
 É um sistema de gerenciamento de ambiente multiplataforma baseado na Peregrine Labs, desenvolvido originalmente para pesquisa e desenvolvimento de produção VFX/Animação, mas pode ser usado em qualquer situação em que uma compreensão precisa do seu ambiente de trabalho seja importante (e realmente deve ser!).
 
 Por quê?
@@ -9,7 +9,7 @@ O conjunto de ferramentas funciona extremamente bem em nossa casa, mas as suposi
 Para mais informações sobre os conceitos de design, consulte nossa apresentação da conferência TDForum 2012 - Building and Leveraging a Cross Platform VFX/Animation Development Environment
 
 Detalhes
-Existem muitas situações em que pode ser necessário trabalhar em várias versões do mesmo software e/ou compartilhar dados entre aplicativos que provavelmente são muito pedantes em relação à compatibilidade, na maioria das vezes tudo isso pode ser controlado por meio de variáveis de ambiente em um shell. Definir manualmente as variáveis de ambiente e/ou garantir que as dependências sejam resolvidas corretamente geralmente está fora de questão, é aí que entra o Ecosystem.
+Existem muitas situações em que pode ser necessário trabalhar em várias versões do mesmo software e/ou compartilhar dados entre aplicativos que provavelmente são muito pedantes em relação à compatibilidade, na maioria das vezes tudo isso pode ser controlado por meio de variáveis de ambiente em um shell. Definir manualmente as variáveis de ambiente e/ou garantir que as dependências sejam resolvidas corretamente geralmente está fora de questão, é aí que entra o Ecosys.
 
 Cada instância de uma ferramenta tem um arquivo .env que define o nome base do produto, a versão e como o ambiente deve ser, parâmetros "opcionais" podem ser incluídos para alterar a maneira como o ambiente é resolvido se outras ferramentas estiverem presentes.
 
